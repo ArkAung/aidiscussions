@@ -21,8 +21,8 @@
 title: AI Discussions Yangon
 email: aaung@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  AI Discussions Yangon is an independently organized disucssion events, 
-  focusing on technical topics on Artificial Inteliigence.
+  AI Discussions Yangon is a series of independently organized discussion events, 
+  focusing on technical topics on Artificial Intelligence.
 baseurl: "/aidiscussions" # the subpath of your site, e.g. /blog
 url: "https//arkaung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: arkaung

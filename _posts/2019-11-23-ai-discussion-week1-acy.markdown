@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI Discussion Week 1 @ Ameircan Center Yangon"
+title:  "AI Discussion Week 1 @ American Center Yangon"
 date:   2019-11-23 14:00:32 +0630
 categories: discussion
 ---
