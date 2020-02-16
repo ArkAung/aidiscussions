@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   focusing on technical topics on Artificial Intelligence.
 baseurl: "/aidiscussions" # the subpath of your site, e.g. /blog
 url: "https//arkaung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: arkaung
+twitter_username: ark_aung
 github_username:  arkaung
 
 # Build settings
